@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Orchid branch</folder>
+	<filename>OIP (2).jpg</filename>
+	<path>C:\Users\admin\Downloads\Orchid branch\OIP (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orchid branch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>730</xmin>
+			<ymin>287</ymin>
+			<xmax>1463</xmax>
+			<ymax>1751</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Orchid branch</folder>
+	<filename>227851437aad12527e9f7576a2bf68be.jpg</filename>
+	<path>C:\Users\admin\Downloads\Orchid branch\227851437aad12527e9f7576a2bf68be.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orchid branch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>2</ymin>
+			<xmax>198</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>orchid branch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>20</ymin>
+			<xmax>350</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Orchid leaf</folder>
+	<filename>healthy-orchid-leaf-900x1200.jpg</filename>
+	<path>C:\Users\admin\Downloads\Orchid leaf\healthy-orchid-leaf-900x1200.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orchid leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>93</ymin>
+			<xmax>751</xmax>
+			<ymax>1200</ymax>
+		</bndbox>
+	</object>
+</annotation>
